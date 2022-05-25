@@ -1,0 +1,16 @@
+{
+    "name": "skill-smartlocksystem",
+    "version": "1.0.0",
+    "private": true,
+    "devDependencies": {
+        "node-fetch": "2.6.1"
+    },
+    "dependencies": {
+        "jsonwebtoken": "^8.5.1",
+        "node-fetch": "2.6.1"
+    },
+    "scripts": {
+        "start": "index.js",
+        "dev": "node ./util/testFetch.js"
+    }
+}
